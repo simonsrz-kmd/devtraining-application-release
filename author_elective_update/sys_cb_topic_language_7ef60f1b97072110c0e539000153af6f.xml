@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic_language">
+    <sys_cb_topic_language action="DELETE">
+        <cb_topic_id display_value="Submit a Request">baf60f1b97072110c0e539000153af6d</cb_topic_id>
+        <language_code>en</language_code>
+        <nlu_entities>[{"node_id":"e6b8aebb2f6b443c93dccf0a12c47723","variable_name":"search_software","nlu_entity":"SOFTWARE","nlu_entity_label":"SOFTWARE"},{"node_id":"0e55b45e8fc64b48b6e12a813eafa8ca","variable_name":"search_hardware","nlu_entity":"HARDWARE","nlu_entity_label":"HARDWARE"},{"node_id":"423596eca4064f31a096115d497f3baa","variable_name":"search_catalogitem","nlu_entity":"requestItem","nlu_entity_label":"requestItem"}]</nlu_entities>
+        <nlu_intent>SubmitARequest (Deprecated)</nlu_intent>
+        <nlu_intent_label>SubmitARequest (Deprecated)</nlu_intent_label>
+        <nlu_model>sn_itsm_nlu_ITSM_NLU_for_VA</nlu_model>
+        <nlu_model_label>ITSM NLU for Virtual Agent</nlu_model_label>
+        <nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider>
+        <sys_class_name>sys_cb_topic_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-01 08:03:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>7ef60f1b97072110c0e539000153af6f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_cb_topic_language_7ef60f1b97072110c0e539000153af6f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-01 08:03:21</sys_updated_on>
+    </sys_cb_topic_language>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>f9324c87db7da05052cec5970596198e</instance_id>
+        <instance_name>dev105571</instance_name>
+        <name>sys_cb_topic_language_7ef60f1b97072110c0e539000153af6f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic_language"><sys_cb_topic_language action="INSERT_OR_UPDATE"><cb_topic_id display_value="Submit a Request">baf60f1b97072110c0e539000153af6d</cb_topic_id><language_code>en</language_code><nlu_entities>[{"node_id":"e6b8aebb2f6b443c93dccf0a12c47723","variable_name":"search_software","nlu_entity":"SOFTWARE","nlu_entity_label":"SOFTWARE"},{"node_id":"0e55b45e8fc64b48b6e12a813eafa8ca","variable_name":"search_hardware","nlu_entity":"HARDWARE","nlu_entity_label":"HARDWARE"},{"node_id":"423596eca4064f31a096115d497f3baa","variable_name":"search_catalogitem","nlu_entity":"requestItem","nlu_entity_label":"requestItem"}]</nlu_entities><nlu_intent>SubmitARequest (Deprecated)</nlu_intent><nlu_intent_label>SubmitARequest (Deprecated)</nlu_intent_label><nlu_model>sn_itsm_nlu_ITSM_NLU_for_VA</nlu_model><nlu_model_label>ITSM NLU for Virtual Agent</nlu_model_label><nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider><sys_class_name>sys_cb_topic_language</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-01 08:03:21</sys_created_on><sys_domain>global</sys_domain><sys_id>7ef60f1b97072110c0e539000153af6f</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_cb_topic_language_7ef60f1b97072110c0e539000153af6f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-01 08:03:21</sys_updated_on></sys_cb_topic_language></record_update>]]></payload>
+        <payload_hash>1256761884</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>4a7008d197c32110c0e539000153afe3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-01 08:03:21</sys_created_on>
+        <sys_id>7af60f1b97072110c0e539000153af71</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18875fb93340000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-01 08:03:21</sys_updated_on>
+        <type>CB Topic Language</type>
+        <update_guid>bef60f1b1707211087ab33946882d070</update_guid>
+        <update_guid_history>bef60f1b1707211087ab33946882d070:1256761884</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-01 08:06:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_cb_topic_language">sys_cb_topic_language</sys_db_object>
+        <sys_id>22592f0a3fce42f484c415b69cf2b110</sys_id>
+        <sys_metadata>7ef60f1b97072110c0e539000153af6f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_cb_topic_language_7ef60f1b97072110c0e539000153af6f</sys_update_name>
+        <sys_update_version display_value="sys_cb_topic_language_7ef60f1b97072110c0e539000153af6f">7af60f1b97072110c0e539000153af71</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-01 08:06:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
